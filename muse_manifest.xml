@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="damel.com" resolutions="1x" timestamp="1605729677836">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="damel.com" resolutions="1x" timestamp="1605801675526">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3877801089" ref="index"/>
-    <file name="nomq_index.css" crc="104762079" ref="index"/>
+    <file name="index.css" crc="3780780367" ref="index"/>
+    <file name="nomq_index.css" crc="138620832" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -63,9 +63,9 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="u278-4.png" crc="4078713036" ref="index"/>
-    <file name="u285-4.png" crc="327180409" ref="index"/>
-    <file name="u325-4.png" crc="3914978060" ref="index"/>
+    <file name="u278-4.png" crc="171687040" ref="index"/>
+    <file name="u285-4.png" crc="159312460" ref="index"/>
+    <file name="u325-4.png" crc="180685379" ref="index"/>
     <file name="white-facebook-icon-png-facebook-logo-facebook-facebook-facebook-icon-white-png-840_859.png" crc="152021108" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -79,24 +79,24 @@
     <file name="u1639-4.png" crc="4196989455" ref="index"/>
     <file name="email-icon.svg" crc="107349391" ref="index"/>
     <file name="email-icon_poster_u1795.png" crc="3806644579" ref="index"/>
-    <file name="u1809-4.png" crc="225234117" ref="index"/>
-    <file name="u278-42.png" crc="4078713036" ref="index"/>
-    <file name="u285-42.png" crc="327180409" ref="index"/>
-    <file name="u325-42.png" crc="3871158060" ref="index"/>
+    <file name="u1809-4.png" crc="4215269112" ref="index"/>
+    <file name="u278-42.png" crc="154632763" ref="index"/>
+    <file name="u285-42.png" crc="516773320" ref="index"/>
+    <file name="u325-42.png" crc="171920361" ref="index"/>
     <file name="u1639-42.png" crc="4196989455" ref="index"/>
     <file name="u1809-42.png" crc="3849157828" ref="index"/>
-    <file name="u278-43.png" crc="4078713036" ref="index"/>
-    <file name="u285-43.png" crc="313623616" ref="index"/>
-    <file name="u325-43.png" crc="3885987178" ref="index"/>
+    <file name="u278-43.png" crc="20186958" ref="index"/>
+    <file name="u285-43.png" crc="133798190" ref="index"/>
+    <file name="u325-43.png" crc="3925457677" ref="index"/>
     <file name="white-facebook-icon-png-facebook-logo-facebook-facebook-facebook-icon-white-png-840_859-u1277-fr.png" crc="4061850556" ref="index"/>
     <file name="instagram-logo-white-u1289-fr.png" crc="301659380" ref="index"/>
     <file name="u1639-43.png" crc="4121252764" ref="index"/>
     <file name="u1809-43.png" crc="225969846" ref="index"/>
-    <file name="u278-44.png" crc="293910585" ref="index"/>
-    <file name="u285-44.png" crc="100571333" ref="index"/>
-    <file name="u325-44.png" crc="184819802" ref="index"/>
-    <file name="u1639-44.png" crc="4196989455" ref="index"/>
+    <file name="u278-44.png" crc="4206310698" ref="index"/>
+    <file name="u285-44.png" crc="3771412080" ref="index"/>
+    <file name="u325-44.png" crc="3997134608" ref="index"/>
+    <file name="u1639-44.png" crc="305137487" ref="index"/>
     <file name="u1809-44.png" crc="225969846" ref="index"/>
   </folder>
-  <file name="index.html" crc="506946066" seo="true" mt="1605729566440" redirect="true"/>
+  <file name="index.html" crc="4159542146" seo="true" mt="1605801597786" redirect="true"/>
 </manifest>
