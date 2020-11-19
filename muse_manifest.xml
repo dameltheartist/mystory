@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="damel.com" resolutions="1x" timestamp="1605742959727">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="damel.com" resolutions="1x" timestamp="1605793256953">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="415925133" ref="index"/>
-    <file name="nomq_index.css" crc="17222887" ref="index"/>
+    <file name="index.css" crc="4014370081" ref="index"/>
+    <file name="nomq_index.css" crc="54715879" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -64,7 +64,7 @@
     </file>
     <file name="loading.gif" crc="3815509949" ref="index"/>
     <file name="u278-4.png" crc="171687040" ref="index"/>
-    <file name="u285-4.png" crc="29090986" ref="index"/>
+    <file name="u285-4.png" crc="159312460" ref="index"/>
     <file name="u325-4.png" crc="180685379" ref="index"/>
     <file name="white-facebook-icon-png-facebook-logo-facebook-facebook-facebook-icon-white-png-840_859.png" crc="152021108" ref="index">
       <caption webpage="index" alt=""/>
@@ -81,7 +81,7 @@
     <file name="email-icon_poster_u1795.png" crc="3806644579" ref="index"/>
     <file name="u1809-4.png" crc="4215269112" ref="index"/>
     <file name="u278-42.png" crc="154632763" ref="index"/>
-    <file name="u285-42.png" crc="140506087" ref="index"/>
+    <file name="u285-42.png" crc="516773320" ref="index"/>
     <file name="u325-42.png" crc="171920361" ref="index"/>
     <file name="u1639-42.png" crc="4196989455" ref="index"/>
     <file name="u1809-42.png" crc="3849157828" ref="index"/>
@@ -98,5 +98,5 @@
     <file name="u1639-44.png" crc="305137487" ref="index"/>
     <file name="u1809-44.png" crc="225969846" ref="index"/>
   </folder>
-  <file name="index.html" crc="4201797830" seo="true" mt="1605742821124" redirect="true"/>
+  <file name="index.html" crc="4027885858" seo="true" mt="1605793190771" redirect="true"/>
 </manifest>
