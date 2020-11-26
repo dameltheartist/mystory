@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="damel.com" resolutions="1x" timestamp="1606429880894">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="damel.com" resolutions="1x" timestamp="1606430164401">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4230102110" ref="index"/>
+    <file name="index.css" crc="4291330706" ref="index"/>
     <file name="nomq_index.css" crc="149470131" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -106,5 +106,5 @@
     <file name="u1838-44.png" crc="225969846" ref="index"/>
     <file name="u1850-44.png" crc="225969846" ref="index"/>
   </folder>
-  <file name="index.html" crc="3780003283" seo="true" mt="1606429866559" redirect="true"/>
+  <file name="index.html" crc="319710456" seo="true" mt="1606430156268" redirect="true"/>
 </manifest>
